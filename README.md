@@ -69,7 +69,7 @@ The **Yield Curve Volatility Tracker** generates insights on the yield curve’s
 
 ## Methodology
 
-For a complete methodology on data collection, calculations, and assumptions, refer to the [Methodology Document](docs/methodology.pdf) located in the `docs` folder. This document provides in-depth explanations for the approach and formulas used.
+For a complete methodology on data collection, calculations, and assumptions, refer to the [Methodology Document](docs/Yield_Curve_Volatility_Tracker_Documentation.pdf) located in the `docs` folder. This document provides in-depth explanations for the approach and formulas used.
 
 ## License
 
