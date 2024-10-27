@@ -46,19 +46,19 @@ The **Yield Curve Volatility Tracker** generates insights on the yield curve’s
 
 ### Sample Output
 
-![Yield Curve Plot - April 2023](images/fitted_yield_curve_april_2023.png)
+![Yield Curve Plot - April 2023](figures/fitted_yield_curve_april_2023.png)
 *Figure 1. Yield Curve with NSS Fitting for April 2023*
 
-![Yield Curve Plot - January 2023](images/fitted_yield_curve_jan_2023.png)
+![Yield Curve Plot - January 2023](figures/fitted_yield_curve_jan_2023.png)
 *Figure 2. Yield Curve with NSS Fitting for January 2023*
 
-![Yield Curve Plot - October 2024](images/fitted_yield_curve_oct_2024.png)
+![Yield Curve Plot - October 2024](figures/fitted_yield_curve_oct_2024.png)
 *Figure 3. Yield Curve with NSS Fitting for October 2024*
 
-![Volatility Plot - 2020 to 2023](images/NSS_factor_volatility_2020_2023.png)
+![Volatility Plot - 2020 to 2023](figures/NSS_factor_volatility_2020_2023.png)
 *Figure 4. Yield Curve Volatility Trend from 2020 to 2023*
 
-![Volatility Plot - 2020 to 2024](images/NSS_factor_volatility_2020_2024.png)
+![Volatility Plot - 2020 to 2024](figures/NSS_factor_volatility_2020_2024.png)
 *Figure 5. Yield Curve Volatility Trend from 2020 to 2024*
 
 ## Files in this Repository
